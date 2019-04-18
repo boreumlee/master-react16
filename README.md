@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## master react16
+## react16 사용하기
 1. use fragment and return types strings
 2. portals 
 3. error boundary with HOC (higher order components)
